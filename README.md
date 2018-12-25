@@ -1,2 +1,3 @@
-# block-soft.github.io
-root www for pages
+# BlocksoftLab
+
+[Main Site](https://blocksoftlab.com/)
